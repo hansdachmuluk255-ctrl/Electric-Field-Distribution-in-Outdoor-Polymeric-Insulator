@@ -1,1 +1,1 @@
-# Electric-Field-Distribution-in-Outdoor-Polymeric-Insulator
+2D axisymmetric COMSOL Multiphysics model of an outdoor polymeric insulator for electric field distribution analysis along the insulator surface and length.
